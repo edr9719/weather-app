@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Node.js (only if you add npm later)
+node_modules/
+
+# Environment variables
+.env
